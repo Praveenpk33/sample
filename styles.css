@@ -1,0 +1,20 @@
+body{
+    width: 100px;
+    height: 100px;
+}
+.container{
+    background-color: aqua;
+    width: 550%;
+    height: 550px;
+    position: relative;
+}
+.btn{
+  border-radius: 10px;
+  color: aquamarine;
+  background-color: black;
+  border-color: brown;
+}
+
+.btn:hover{
+    color: crimson;
+}
